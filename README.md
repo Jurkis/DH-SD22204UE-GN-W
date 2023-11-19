@@ -15,4 +15,5 @@ This is how I setup 'tinyCam PRO' Android app to work with my camera DH-SD22204U
 ![DH-SD22204UE-GN-W setup](pics/DH-SD22204UE-GN-W-setup.png)
 
 Camera model was selected the first from cameras list.
+
 I did no any changes in my router.
