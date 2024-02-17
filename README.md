@@ -2,10 +2,10 @@
 Camera DH-SD22204UE-GN-W setup in 'tinyCam PRO' Android app
 # Setup in 'tinyCam PRO' Android app
 This is how I setup 'tinyCam PRO' Android app to work with my camera DH-SD22204UE-GN-W of Dahua:
-1. Name: Private DH-SD22204UE-GN-W
+1. Name: Any name you wish
 2. Vendor: Dahua
 3. Model: DH-SD59225U-HNI
-4. Hostname: 192.168.1.68
+4. Hostname: 192.168.1.68 [or any you wish, make static]
 5. Web port: 80
 6. Protocol: RTSP over TCP
 7. RTSP port: 554
